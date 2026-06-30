@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: yourdockerhub/simple-cicd:v1
+        image: sanjaynivasg/simple-cicd:v1
 
         ports:
         - containerPort: 5000
